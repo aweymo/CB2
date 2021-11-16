@@ -14,7 +14,7 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /aweymo.github.io/cb2/
 # location of code, the full url to your github repository
-source-code:aweymo.github.io/cb2/
+source-code: https://github.com/aweymo/CB2
 
 ##########
 # SITE SETTINGS
